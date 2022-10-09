@@ -1,0 +1,10 @@
+sklearn
+numpy
+pandas
+streamlit
+nltk
+fuzzywuzzy
+seaborn
+beautifulsoup4
+progressbar
+matplotlib
